@@ -1,0 +1,4 @@
+###Files git must ignore in order to not overwrite settings for individual users
+
+/TehGame/Config
+/TehGame/Saved
